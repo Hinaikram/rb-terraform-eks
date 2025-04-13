@@ -1,0 +1,1 @@
+# No top-level variables needed for now
